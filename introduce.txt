@@ -1,6 +1,0 @@
-本项目是论文SG-LRA欲公开的脊柱侧弯数据集Spinal-AI2024，其获得过程详见论文
-
-Spinal-AI2024数据集共包含20000张由SG-LAR框架生成的脊柱侧弯X光片，以4000张为一个子集被分为subset1-subset5，建议subset1-subset4共16000张作为训练集，subset5作为测试集或评估集。
-
-
-按照这样的划分，提供COCO格式的标注文件Spinal-AI2024_train.json和Spinal-AI2024_test.json，标注格式如下所示：
