@@ -1,4 +1,4 @@
-# <h1 align="center"> SG-LRA: Self-Generating Automatic Scoliosis Cobb Angle Measurement with Low-Rank Approximation </h1> 
+# <h1 align="center"> CurvNet: Latent Contour Representation and Iterative Data Engine for Curvature Angle Estimation </h1> 
 
 <div align="center">
     <img src="figs/checklist.png" width="80%">
