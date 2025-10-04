@@ -5,7 +5,7 @@
 </div>
 
 
-The project is about the Spinal-AI2024 dataset of spinal scoliosis X-ray images, which is to be publicly released by the paper [CurvNet: Latent Contour Representation and Iterative Data Engine for Curvature Angle Estimation](https://arxiv.org/abs/2411.12604). The dataset generation process is detailed in the paper.
+The project is about the Spinal-AI2024 dataset of spinal scoliosis X-ray images, which is to be publicly released by our Pattern Recognition journal paper [CurvNet: Latent Contour Representation and Iterative Data Engine for Curvature Angle Estimation](https://arxiv.org/abs/2411.12604). The dataset generation process is detailed in the paper.
 
 
 
